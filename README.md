@@ -1,2 +1,1 @@
-# Git_course
-for elzero web school
+this is note
